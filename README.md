@@ -226,3 +226,34 @@ Pour être référencé sur Google News, il faut respecter les **critères de qu
 - **Partie spécifique** : Page dédiée à l’actualité, avec des articles récents.
 - **Contenu actualisé** : Mise à jour régulière, avec des articles datés.
 
+## Google Analytics
+- **Outil gratuit** de Google permettant de **mesurer** et **analyser** le trafic d’un site web et ainsi d’optimiser sa **stratégie marketing**.
+
+## Netlinking
+- Placer les liens **le plus haut possible** dans l'architecture du site
+- **Échanger** des liens avec des sites de qualité et complémentaires
+- Vente de liens : **déconseillé**
+
+## L'indice de confiance (theorique)
+Critères :
+- Taille du site
+- Ancienneté du site
+- Traffic du site
+- Niveau de véracité des informations
+
+## Domaine et URLs
+Lorsque c'est possible, essayer de mettre un **mot-clé** dans le **domaine** ou l'**URL**.
+
+### Certificat SSL
+Ce certificat indispensable garantit la confidentialité et l'intégrité des données échangées entre le navigateur Web et le serveur en les chiffrant.
+- **Confidentialité** : Les données échangées entre le navigateur et le serveur sont chiffrées et donc non lisibles par des tiers.
+- **Intégrité** : Les données ne peuvent pas être modifiées lors de leur transfert entre le navigateur et le serveur.
+
+### Sitemap
+- **Fichier XML** qui liste les pages à indexer du site Web et permet aux moteurs de recherche de **mieux comprendre** sa structure.
+- Pour l'envoyer à Google, il faut le **déclarer** dans **Google Search Console**.
+
+## Technologies, moteurs
+- **Externalisation du javascript** : Placer les scripts en dessousdes balises title et meta description.
+- Éviter les **redirections**, les **404**
+- W3.org : liste des code d'erreur HTTP

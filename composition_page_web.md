@@ -105,3 +105,5 @@ Les navigateurs permettent de se placer à la place d'un utilisateur en simulant
 - **Taille** : Limiter la taille des fichiers pour améliorer les performances du site tout en maintenant une qualité optimal.
 >Éviter les fichiers editables, les PDF sont préférables
 
+## Robots.txt
+Le fichier robots.txt permet de contrôler le comportement des robots d'indexation des moteurs de recherche. Il peut indiquer aux robots de ne pas indexer certaines parties du site, de ne pas suivre les liens, etc.
