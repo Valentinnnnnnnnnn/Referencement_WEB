@@ -217,3 +217,12 @@ Exemple : **SGE (Search Generative Experience)** de Google, utilisant l’IA pou
 - Webapp
 - E-commerce
 - Institutionnel
+
+---
+
+## La rebrique Google News
+Pour être référencé sur Google News, il faut respecter les **critères de qualité** suivants :
+- **Contenu original** : Informations exclusives, analyses, interviews, etc.
+- **Partie spécifique** : Page dédiée à l’actualité, avec des articles récents.
+- **Contenu actualisé** : Mise à jour régulière, avec des articles datés.
+

@@ -18,6 +18,8 @@
 - **Contenu de qualité** : Les moteurs de recherche valorisent les sites proposant des informations pertinentes et originales.
 - **Contenu vidéo** : De plus en plus populaire, il suscite un fort engagement auprès des utilisateurs.
 - **Backlinks** : Des liens entrants de qualité (sites d’autorité, pertinence thématique) renforcent la crédibilité et le positionnement SEO.
+- **Actualisation régulière** : Les moteurs de recherche privilégient les sites mis à jour fréquemment.
+>/!\ Attention à ne pas indexer les données créées par les utilisateurs : risque de spam, de contenu inapproprié, etc.
 
 ## Privilégier Google
 
