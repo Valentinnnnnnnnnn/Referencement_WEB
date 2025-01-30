@@ -25,13 +25,14 @@ Utilisation de la sémentique HTML5
 Balises meta
 Balise title
 
-liens internes
+liens internes entre les pages
 aria-label
 alt images
 loading lazy
 srcset
+noms des images avec des mots clés
 
-données réélles
+données réélles adresse, numéro de téléphone, mail
 
 
 TODO : 

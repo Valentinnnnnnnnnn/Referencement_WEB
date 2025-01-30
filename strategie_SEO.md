@@ -2,7 +2,14 @@
 
 ## Le mobile comme priorité
 
-- **Mobile-first** : Les moteurs de recherche, Google en tête, évaluent et indexent d’abord la version mobile d’un site.
+- **Mobile-first** : 
+  - Google privilégie les sites adaptés aux mobiles dans son indexation. Le responsive design est donc indispensable.
+  - L'utilisateur de doit pas avoir a scroller horizontalement ni zoomer pour lire le contenu.
+  - Les boutons doivent être suffisamment espacés pour être cliquables facilement. (minimum 5mm recommandé)
+  - Sur mobile, les publicités ne doivent pas occuper une trop grande partie de l'écran.
+
+
+
 - **Comportement des utilisateurs** :  
   - 90 % des personnes possédant un smartphone effectuent **au moins une recherche par jour** dessus.
   - La moyenne des recherches effectuées serait de **4 mots** par recherche.

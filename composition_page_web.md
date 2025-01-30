@@ -107,3 +107,6 @@ Les navigateurs permettent de se placer à la place d'un utilisateur en simulant
 
 ## Robots.txt
 Le fichier robots.txt permet de contrôler le comportement des robots d'indexation des moteurs de recherche. Il peut indiquer aux robots de ne pas indexer certaines parties du site, de ne pas suivre les liens, etc.
+
+## Carte Google Maps
+La carte Google Maps permet d'afficher l'emplacement de l'entreprise sur le site. Elle peut être intégrée à la page de contact ou à la page d'accueil.

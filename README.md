@@ -3,7 +3,7 @@
 ## Pourquoi le SEO est important
 
 - **360 millions** de noms de domaines enregistrés par an
-- **10 millions** d’articles postés quotidiennement sur des CMS (WordPress, etc.)
+- **10 millions** d’articles postés quotidiennement sur des CMS (Content Management System : WordPress, Wix, etc.)
 - **9 milliards** de recherches par jour sur Google
 - **25 %** des recherches contiennent seulement **2 mots**, et **20 %** en **3 mots**
 - **60 à 70 %** des recherches sont effectuées sur smartphones
@@ -257,3 +257,24 @@ Ce certificat indispensable garantit la confidentialité et l'intégrité des do
 - **Externalisation du javascript** : Placer les scripts en dessousdes balises title et meta description.
 - Éviter les **redirections**, les **404**
 - W3.org : liste des code d'erreur HTTP
+
+## Les differents types de responsive
+- **Media Queries** : Adaptation du contenu en fonction de la taille de l'écran.
+- **Double Layout** : Deux versions du site, une pour mobile et une pour desktop.
+- **App native** : Application dédiée pour mobile.
+
+## Google My Business / SEO Local
+- Fiche d'établissement gratuite permettant de **gérer** et **optimiser** la **présence** de son entreprise sur **Google**.
+- Permet également d'être référencé sur **Google Maps** grace aux informations de **localisation** et de **contact**.
+- Les **avis** des clients sont également **importants**.
+
+## Les réseau sociaux
+- Il est important de bien choisir les **réseaux sociaux** sur lesquels être présent en fonction de sa **cible**.
+- Différents types : 
+   - Personnels : Facebook, Snapchat
+   - De partage : Pinterest, Youtube
+   - Professionnels : LinkedIn
+
+## Les outils de monitoring
+- **Google Analytics** : Analyse du trafic
+- **Google Search Console** : Suivi de l'indexation
