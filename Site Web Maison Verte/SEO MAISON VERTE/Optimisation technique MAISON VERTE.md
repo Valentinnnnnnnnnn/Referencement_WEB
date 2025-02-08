@@ -52,3 +52,16 @@
    - Utilisation d’un **domaine sécurisé** (HTTPS).  
    - Exemple de sous-domaine pour des questions de budget :  
      [https://maison-verte.infinityfreeapp.com](https://maison-verte.infinityfreeapp.com)
+
+![alt text](image.png)
+
+## Points à améliorer
+
+1. **Convertir les images en WebP**  
+   - Format plus léger que le JPEG
+
+2. **Mise en place de Google Analytics**  
+   - Suivi du traffic
+
+3. **Améliorer le contraste des couleurs**  
+   - Respecter les normes d’accessibilité (d'après les résultats de Lighthouse)
